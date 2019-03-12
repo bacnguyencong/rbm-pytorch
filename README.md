@@ -1,4 +1,4 @@
-# rbm-pytorch
+# Restricted Boltzmann Machine
 An implementation of Restricted Boltzmann Machine in Pytorch
 
 <img src="./output/rbm.png" style="float: left; margin-right: 10px;" />
