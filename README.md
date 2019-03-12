@@ -1,13 +1,18 @@
 # rbm-pytorch
 An implementation of Restricted Boltzmann Machine in Pytorch
+
 <img src="./output/rbm.png" style="float: left; margin-right: 10px;" />
 
 #### Real images
+
 <img src="./output/real.png" style="float: left; margin-right: 10px;" />
+
 #### Generated images
+
 <img src="./output/real.png" style="float: left; margin-right: 10px;" />
 
 #### Factorization
+
 <img src="./output/factor.png" style="float: left; margin-right: 10px;" />
 
 
