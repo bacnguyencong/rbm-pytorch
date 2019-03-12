@@ -9,7 +9,7 @@ An implementation of Restricted Boltzmann Machine in Pytorch
 
 #### Generated images
 
-<img src="./output/real.png" style="float: left; margin-right: 10px;" />
+<img src="./output/fake.png" style="float: left; margin-right: 10px;" />
 
 #### Factorization
 
