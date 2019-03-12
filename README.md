@@ -2,10 +2,11 @@
 An implementation of Restricted Boltzmann Machine in Pytorch
 
 #### Real images
-
+[](output/real.png)
 #### Generated images
-
+[](output/real.png)
 #### Factorization
+[](output/factor.png)
 
 
 ### References
