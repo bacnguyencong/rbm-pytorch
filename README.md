@@ -1,5 +1,5 @@
 # Restricted Boltzmann Machine
-An implementation of Restricted Boltzmann Machine in Pytorch
+An implementation of Restricted Boltzmann Machine in Pytorch. The detailed tutorial can be found [here](https://bacnguyencong.github.io/posts/2019/03/).
 
 <img src="./output/rbm.png" style="float: left; margin-right: 10px;" />
 
